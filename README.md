@@ -1,6 +1,6 @@
 # 🌌 Fairycon Research Core
 
-![Project Banner](static/banner.png)
+![Project Banner](Banner.png)
 
 **Version**: 1.0.0  
 **Last Updated**: 2025-02-28  
